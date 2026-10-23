@@ -11,7 +11,7 @@ class Area {
 
 }
 
-class Example {
+class Example2 {
   static void fun1() {
     System.out.println("A");
   }
